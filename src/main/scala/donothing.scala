@@ -9,6 +9,3 @@ class donothing extends Module {
   io.out := io.in // Does nothing. :)
 }
 
-object donothing extends App {
-  emitVerilog(new donothing())
-}
