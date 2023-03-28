@@ -4,7 +4,7 @@ organization := "edu.berkeley.css"
 version := "1.0"
 
 name := "donothing"
-scalaVersion := "2.12.13"
+scalaVersion := "2.12.10"
 
 scalacOptions ++= Seq(
   "-feature",
